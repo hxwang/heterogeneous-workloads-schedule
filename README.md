@@ -1,3 +1,8 @@
 ## Heterogenous workload scheduling
 
-- [Introduction](./file/intro.md)
+- Paper Skeleton 
+  - [Introduction](./file/intro.md)
+  - [Related Work](./file/related.md)
+  - [Problem Model](./file/model.md)
+  - [Algorithms](./file/algorithm.md)
+  - [Simulation](./file/simulation.md)
