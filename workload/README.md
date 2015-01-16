@@ -12,3 +12,7 @@
   - Mean measured service time: 10 minutes
   - Max service time: 20 min
   - Mean arrival time: 2 min
+
+### Setting
+- Server: 2VM, each has 4 cores, in total 8 cores
+  - 5 cores for MapReduce
