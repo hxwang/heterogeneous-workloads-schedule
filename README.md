@@ -8,4 +8,4 @@
   - [Simulation](./file/simulation.md)
 
 - [Reference](https://github.com/hxwang/GreenDC-Summary/blob/master/file/mixed-workload.md)
-- [Workload](./workload.md)
+- [Workload](./workload)
