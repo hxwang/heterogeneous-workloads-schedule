@@ -1,11 +1,11 @@
 ## Workload
 
 ### Web service
-- [Rubis](http://rubis.ow2.org/)
-- target response time: 12ms
-- client arrival: exponential
-- client requests are generated using a lognormal distribution with mean 100ms
-- mean service time: 15 ms
+  - [Rubis](http://rubis.ow2.org/)
+  - target response time: 12ms
+  - client arrival: exponential
+  - client requests are generated using a lognormal distribution with mean 100ms
+  - mean service time: 15 ms
 
 ### Batch jobs
 - [Map Reduce Job](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5493490)
